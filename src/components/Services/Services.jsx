@@ -77,7 +77,7 @@ const Services = () => {
             emoji={HeartEmoji}
             heading={"Data Analysis & Machine Learning"}
             detail={
-              "Python, R, Java, SQL, Data Visualization, Algorithm Implementation, Predictive Models"
+              "Python, R, Java, SQL, Algorithm Implementation, Predictive Models"
             }
           />
         </motion.div>
@@ -91,7 +91,7 @@ const Services = () => {
             emoji={Glasses}
             heading={"Statistical Modeling & Database Management"}
             detail={
-              "Hypothesis Testing, Predictive Modeling, Database Design, Optimization, SQL"
+              "Hypothesis Testing, Predictive Modeling, SQL"
             }
           />
         </motion.div>

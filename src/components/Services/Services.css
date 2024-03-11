@@ -88,16 +88,21 @@
     margin-top: 5rem;
     flex-direction: column;
     gap: 5rem;
-    min-height: 90rem;
+    height: auto;
     box-sizing: border-box;
     padding: 0;
     margin-bottom: 0;
   }
 
   .cards {
+    position: relative !important;
+    box-sizing: border-box;
     display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
     flex-direction: column;
-    gap: 17rem;
+    gap: 22rem;
+    height: 40rem;
   }
   .cards > * {
     position: static;
