@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: GFS Neohellenic
+- Font Author: Copyright (c) Designed by Takis Katsoulidis and George D. Matthiopoulos., 2001. All rights reserved.
+- Font Source: https://fonts.gstatic.com/s/gfsneohellenic/v25/8QIRdiDOrfiq0b7R8O1Iw9WLcY5TLahP46UDUw.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
